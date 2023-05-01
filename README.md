@@ -31,3 +31,19 @@ and organizations to improve product quality, customer satisfaction, and sales.
 ### The wordcloud and the final structure of the data.
 ![](/readme_images/image4.png)
 ![](/readme_images/image5.png)
+
+## Model Evaluation
+### Three models are trained and evaluated with the data which is split in training and testing and its accuracy score is found.
+![](/readme_images/image6.png)
+![](/readme_images/image7.png)
+![](/readme_images/image8.png)
+
+## RESULTS
+
+### A comparison is done between the three models based on their accuracy.
+![](/readme_images/image9.png)
+
+### This is the outcome of the website. which predicts the sentiment of the entered text.
+
+![](/readme_images/image10.png)
+![](/readme_images/image11.png)
