@@ -19,3 +19,11 @@ and organizations to improve product quality, customer satisfaction, and sales.
 ## The dataset is downloaded from Kaggle and consists of various columns as shown:
 
 ![](/readme_images/image1.png)
+
+## Data preprocessing
+
+### The data preprocessing included various steps such as removal of stop words lower case conversion, lemmatizing the data, punctuation removal and finding out number of positive and negative reviews.
+
+![](/readme_images/image2.png)
+
+![](/readme_images/image3.png)
