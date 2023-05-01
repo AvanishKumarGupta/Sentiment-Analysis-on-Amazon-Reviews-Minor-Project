@@ -27,3 +27,7 @@ and organizations to improve product quality, customer satisfaction, and sales.
 ![](/readme_images/image2.png)
 
 ![](/readme_images/image3.png)
+
+### The wordcloud and the final structure of the data.
+![](/readme_images/image4.png)
+![](/readme_images/image5.png)
