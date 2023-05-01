@@ -17,3 +17,5 @@ products on Amazon. The findings of this project can be useful for businesses
 and organizations to improve product quality, customer satisfaction, and sales.
 
 ## The dataset is downloaded from Kaggle and consists of various columns as shown:
+
+/readme_images/image1.png
