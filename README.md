@@ -15,3 +15,5 @@ project evaluates the performance of various machine learning algorithms and
 analyzes the results to gain insights into the sentiment of customers towards 
 products on Amazon. The findings of this project can be useful for businesses 
 and organizations to improve product quality, customer satisfaction, and sales.
+
+## The dataset is downloaded from Kaggle and consists of various columns as shown:
