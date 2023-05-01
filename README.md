@@ -47,3 +47,6 @@ and organizations to improve product quality, customer satisfaction, and sales.
 
 ![](/readme_images/image10.png)
 ![](/readme_images/image11.png)
+
+## Conclusion
+### In conclusion, sentiment analysis is a powerful tool that can be used to analyze large volumes of text data and extract valuable insights about customer opinions and preferences. By following design and testing standards, it is possible to develop a reliable sentiment analysis model that can be deployed in real-world applications. The use of a confusion matrix and other testing metrics can help to evaluate the performance of the model and identify areas for improvement.
