@@ -1,4 +1,5 @@
 # from flask import Flask, render_template, request
+#
 # from wtforms import Form, TextAreaField, validators
 # import pickle
 # import sqlite3
@@ -78,10 +79,10 @@ def classify(document, models):
 #     return label[y], proba
 
 
-
 class ReviewForm(Form):
 
-    review = TextAreaField('', [validators.DataRequired(),validators.length(min=15)])
+    review = TextAreaField(
+        '', [validators.DataRequired(), validators.length(min=15)])
 
 
 @app.route('/')
@@ -107,6 +108,7 @@ def results():
 #         y, proba = classify(review)
 #         return render_template('results.html',content=review,prediction=y,probability=round(proba*100, 2))
 #     return render_template('reviewform.html', form=form)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
